@@ -7,7 +7,9 @@
 
 <div align='center'>
 
-  [![toko's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaaz425&hide=stars&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![toko's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaaz425&hide=stars&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaz425&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
